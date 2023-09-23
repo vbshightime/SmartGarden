@@ -4,7 +4,7 @@
 * ESP32
 * SHT31(optional) 
 * 1 channel 5v SSD Relay
-* [Drip Irrigation System] (https://www.amazon.in/gp/product/B08MWX3YWM/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&th=1)
+* [Drip Irrigation System](https://www.amazon.in/gp/product/B08MWX3YWM/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&th=1)
 
 ### Libraries used:
 
