@@ -2,14 +2,10 @@
 
 ## Hardware used 
 * ESP32
-* SCD4x
-* SHT31 
-* 2 channel 5v SSD Relay
+* SHT31(optional) 
+* 1 channel 5v SSD Relay
 
 ### Libraries used:
-
-#### library for SCD4x 
-1. Sparkfun_SCD4x https://github.com/sparkfun/SparkFun_SCD4x_Arduino_Library
 
 #### library for Sht3x
 1. Adafruit_SHT31 2.2.0 https://github.com/adafruit/Adafruit_SHT31
