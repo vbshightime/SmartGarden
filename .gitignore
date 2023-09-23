@@ -1,0 +1,7 @@
+.pio
+.vscode
+lib
+test
+device_smart_garden.json
+include
+
